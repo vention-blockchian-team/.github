@@ -1,4 +1,4 @@
-![Description of the image](https://example.com/image.png)
+(https://example.com/image.png)
 
 # Ventionss Overview
 
