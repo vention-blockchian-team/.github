@@ -1,5 +1,3 @@
-<p align="center"><img width="300"  src="https://i.ibb.co/ctDgvcF/vention.png">
-</p>
 <img src="https://i.ibb.co/25hXwGL/introduce1.png"></img>
 
 # Ventionss Overview
