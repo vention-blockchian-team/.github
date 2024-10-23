@@ -1,4 +1,4 @@
-<img src="https://ibb.co/5LXBgdk"></img>
+![Description of the image](https://example.com/image.png)
 
 # Ventionss Overview
 
